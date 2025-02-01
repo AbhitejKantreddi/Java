@@ -48,7 +48,7 @@ public class p1 {
         }System.out.println(totalMarks);}
 
 
-        static void int(int a)
+        //static void int(int a)
     
     
     }
